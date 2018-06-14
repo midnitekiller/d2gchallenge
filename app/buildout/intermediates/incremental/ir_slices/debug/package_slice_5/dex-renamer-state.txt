@@ -1,0 +1,4 @@
+#Thu Jun 14 16:34:50 SGT 2018
+base.0=C\:\\Users\\D2G\\Desktop\\D2GChallenge\\app\\buildout\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
